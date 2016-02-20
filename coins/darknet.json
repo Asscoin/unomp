@@ -1,0 +1,6 @@
+{
+    "name": "Darknet",
+    "symbol": "DNET",
+    "algorithm": "quark",
+    "mposDiffMultiplier": 256
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Bloodcoin",
+    "symbol": "BOD",
+    "algorithm": "quark",
+    "mposDiffMultiplier": 256
+}

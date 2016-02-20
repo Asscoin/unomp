@@ -1,0 +1,6 @@
+{
+    "name": "020Londoncoin",
+    "symbol": "O2O",
+    "algorithm": "quark",
+    "mposDiffMultiplier": 256
+}
